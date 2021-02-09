@@ -8,7 +8,8 @@ COLOR 0A
     SET DayZServerPath="C:\Servers\DayZ"
     SET SteamCMDPath="C:\Servers\SteamCMD"
 	SET BECPath="C:\Servers\BEC"
-	:: DayZ Mod Parameters
+	:: DayZ Mod Parameters:
+	:: Make a file in DayZ folder named "Modlist.txt" and put all your mods in there.
 	set DayZModList=(C:\Servers\DayZ\Modlist.txt)
 	set SteamCMDWorkshopPath="C:\Servers\SteamCMD\steamapps\workshop\content\221100"
 	set SteamCMDDelay=5
