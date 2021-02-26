@@ -2,7 +2,9 @@
 TITLE DayZ SA Server - Status
 COLOR 0A
 	:: DEFINE the following variables where applicable to your install
-  :: In this file, i have server,BEC and Steam CMD all installed at C:Drive, it can be any drive, just change it
+  	:: In this file, i have server,BEC and Steam CMD all installed at C:Drive, it can be any drive, just change it
+    	:: This is not entierly my work. I have modified a bat file from the original author, all credit to thet person
+	:: Unfortunently I cant remember from where i got this file, but grateful for the work OA did.
     SET SteamLogin= <Your Steam ID> <Your Steam Password>
     SET DayZBranch=223350
     SET DayZServerPath="C:\Servers\DayZ"
